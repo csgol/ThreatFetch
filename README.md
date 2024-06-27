@@ -49,7 +49,7 @@ This project is a simple web application that fetches and displays recent Common
 2. **Click the "Fetch CVEs" button**.
 3. **View the results**: The CVEs related to the keyword will be displayed on the page in a formatted card layout, results are within last month.
 
-![alt text](img.png)
+![alt text](image.png)
 
 ## Troubleshooting
 
