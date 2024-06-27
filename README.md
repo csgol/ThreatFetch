@@ -1,4 +1,4 @@
-# CVE Fetcher
+# ThreatFetcher
 
 This project is a simple web application that fetches and displays recent Common Vulnerabilities and Exposures (CVEs) based on a keyword search. The application uses the NVD API to retrieve CVEs and presents them in a user-friendly format using Bootstrap.
 

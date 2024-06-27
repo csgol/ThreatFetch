@@ -86,12 +86,12 @@ class CustomHandler(http.server.SimpleHTTPRequestHandler):
             response_content = f"""
             <html>
                 <head>
-                    <title>Fetch CVEs</title>
+                    <title>ThreatFetcher</title>
                     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
                 </head>
                 <body>
                     <div class="container">
-                        <h1 class="mt-5">Fetch Recent CVEs</h1>
+                        <h1 class="mt-5">Threat Fetcher</h1>
                         <form action="/fetch_cves" method="post" class="mt-3">
                             <div class="form-group">
                                 <label for="keyword">Keyword (Vendor, Product, or CVE Name)</label>
