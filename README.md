@@ -19,7 +19,7 @@ This project is a simple web application that fetches and displays recent Common
 1. **Clone the repository**:
     ```bash
     git clone <repository_url>
-    cd cveScript
+    cd ThreatFetch
     ```
 
 2. **Install the required Python packages**:
