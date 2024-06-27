@@ -4,7 +4,7 @@ This project is a simple web application that fetches and displays recent Common
 
 ## Project Structure
 
-cveScript/
+- cveScript/
 ├── app.py
 ├── config.py
 ├── index.html
@@ -55,6 +55,8 @@ cveScript/
 1. **Enter a keyword** (e.g., "Cisco", "Microsoft", or "CVE-2024-1234") in the search bar.
 2. **Click the "Fetch CVEs" button**.
 3. **View the results**: The CVEs related to the keyword will be displayed on the page in a formatted card layout, results are within last month.
+
+![alt text](img.png)
 
 ## Troubleshooting
 
