@@ -4,17 +4,10 @@ This project is a simple web application that fetches and displays recent Common
 
 ## Project Structure
 
-- cveScript/
-├── app.py
-├── config.py
-├── index.html
-└── README.md
-
-
 - `app.py`: The main server script that handles HTTP requests, interacts with the NVD API, and serves the HTML content.
 - `index.html`: The HTML file that serves as the front-end for the application.
 - `config.py`: A configuration file that contains the API key for accessing the NVD API: https://nvd.nist.gov/developers/request-an-api-key
-- `README.md`: This file, providing information about the project.
+- `README.md`: Shows information about the project.
 
 ## Requirements
 
